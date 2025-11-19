@@ -20,7 +20,7 @@
         }
         a {
             display: block;
-            background: #0066cc;
+            background: #660066;
             color: white;
             padding: 14px;
             margin: 12px 0;
