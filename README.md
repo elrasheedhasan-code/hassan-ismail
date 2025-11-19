@@ -29,7 +29,7 @@
             transition: 0.2s;
         }
         a:hover {
-            background: #004999;
+            background: #660066;
         }
     </style>
 </head>
